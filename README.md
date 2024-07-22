@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Clone the repository with the following command ``
+- Clone the repository with the following command `git clone git@github.com:ishkhanuhi-hakobyan/game-theory.git`
 
 After **_cloning_** the repository:
 
