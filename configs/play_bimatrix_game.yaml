@@ -1,0 +1,7 @@
+# @package _global_
+
+name: play_bimatrix_game
+print_config: True
+ignore_warnings: True
+debug: False
+csv_path: "bimatrix_game/matrix_txt/matrices.txt"
